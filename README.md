@@ -1,16 +1,47 @@
-## Hi there 👋
+![Mirko Braic](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Mirko%20Brai%C4%87&desc=Software%20Engineer%20•%20iOS%20Lead&animation=fadeIn&fontAlignY=45&descAlignY=75&fontSize=50&descSize=20&theme=onedark)
 
-<!--
-**mirkobraic/mirkobraic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
 
-Here are some ideas to get you started:
+II’m an iOS Engineer and Team Lead passionate about building elegant, scalable, high-quality apps using Swift, SwiftUI, and modern architecture patterns. Known for being dependable and driven, I bring consistency and a strong sense of ownership to every project I’m part of.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What I Do
+
+-	🚀 Lead iOS development team at [Endava Adriatic](https://www.endava.com/)
+-	📱 Build intuitive, high-performance interfaces using SwiftUI, UIKit, and TCA
+-	🧠 Drive team growth through mentorship, architecture discussions, and code reviews
+- 🧩 Shipped multiple apps across different domains on iOS, iPadOS, and tvOS platforms
+- 🤝 Open to collaborations and exciting new opportunities
+- 💬 Ask me about Swift, SwiftUI, UIKit, TCA, CoreData, BLE, MVVM, Clean Architecture
+
+### 📊 GitHub Activity
+
+<table>
+  <tr>
+    <td valign="top" width="40%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirkobraic&layout=compact&theme=onedark" width="100%" alt="GitHub Streak Stats"/>
+    </td>
+    <td valign="top" width="55%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirkobraic&theme=onedark" width="100%" alt="GitHub Streak Stats"/>
+    </td>
+  </tr>
+</table>
+
+### 📬 Reach Out
+
+<div align="left">
+  <a href="https://linkedin.com/in/mirkobraic">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mirko.braic@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.dropbox.com/scl/fi/05kt5efyixhrba9nx1gf0/MirkoBraicCV.pdf?rlkey=wxxyb4l4lun7wx2vjwazffba6&st=tea6qflh&dl=1" download>
+    <img src="https://img.shields.io/badge/CV-grey?style=for-the-badge&logo=readthedocs" alt="CV" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="sources/campfire.gif" width="200" alt="Campfire animation" />
+  <img src="sources/campfire.gif" width="200" alt="Campfire animation" />
+  <img src="sources/campfire.gif" width="200" alt="Campfire animation" />
+</div>
