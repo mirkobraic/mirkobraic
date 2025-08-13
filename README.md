@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 
-I’m an iOS Engineer and Team Lead passionate about building elegant, scalable, high-quality apps using Swift, SwiftUI, and modern architecture patterns. Known for being dependable and driven, I bring consistency and a strong sense of ownership to every project I’m part of.
+I’m an iOS Engineer and Team Lead, passionate about building elegant, scalable, high-quality apps using Swift, SwiftUI, and modern architecture patterns. Known for being dependable and driven, I bring consistency and a strong sense of ownership to every project I’m a part of.
 
 ### 💡 What I Do
 
