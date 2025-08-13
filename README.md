@@ -6,7 +6,7 @@ II’m an iOS Engineer and Team Lead passionate about building elegant, scalable
 
 ### 💡 What I Do
 
--	🚀 Lead iOS development team at [Endava Adriatic](https://www.endava.com/)
+-	🚀 Lead iOS development team at [Endava](https://www.endava.com/)
 -	📱 Build intuitive, high-performance interfaces using SwiftUI, UIKit, and TCA
 -	🧠 Drive team growth through mentorship, architecture discussions, and code reviews
 - 🧩 Shipped multiple apps across different domains on iOS, iPadOS, and tvOS platforms
@@ -17,11 +17,11 @@ II’m an iOS Engineer and Team Lead passionate about building elegant, scalable
 
 <table>
   <tr>
-    <td valign="top" width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirkobraic&layout=compact&theme=onedark" width="100%" alt="GitHub Streak Stats"/>
+    <td valign="top" width="44%">
+      <img src="https://vercel-stats-gules.vercel.app/api/top-langs/?layout=compact&username=mirkobraic&theme=onedark&exclude_repo=vercel-stats" width="100%" alt="GitHub Streak Stats"/>
     </td>
-    <td valign="top" width="55%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirkobraic&theme=onedark" width="100%" alt="GitHub Streak Stats"/>
+    <td valign="top" width="55%">      
+      <img src="https://vercel-stats-gules.vercel.app/api/?username=mirkobraic&theme=onedark&exclude_repo=vercel-stats" width="100%" alt="GitHub Stats"/>
     </td>
   </tr>
 </table>
