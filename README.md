@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 
-II’m an iOS Engineer and Team Lead passionate about building elegant, scalable, high-quality apps using Swift, SwiftUI, and modern architecture patterns. Known for being dependable and driven, I bring consistency and a strong sense of ownership to every project I’m part of.
+I’m an iOS Engineer and Team Lead passionate about building elegant, scalable, high-quality apps using Swift, SwiftUI, and modern architecture patterns. Known for being dependable and driven, I bring consistency and a strong sense of ownership to every project I’m part of.
 
 ### 💡 What I Do
 
@@ -12,6 +12,12 @@ II’m an iOS Engineer and Team Lead passionate about building elegant, scalable
 - 🧩 Shipped multiple apps across different domains on iOS, iPadOS, and tvOS platforms
 - 🤝 Open to collaborations and exciting new opportunities
 - 💬 Ask me about Swift, SwiftUI, UIKit, TCA, CoreData, BLE, MVVM, Clean Architecture
+
+### 📬 Reach Out
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirkobraic)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirko.braic@gmail.com)
+[![CV](https://img.shields.io/badge/CV-grey?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.dropbox.com/scl/fi/05kt5efyixhrba9nx1gf0/MirkoBraicCV.pdf?rlkey=wxxyb4l4lun7wx2vjwazffba6&st=tea6qflh&dl=1)
 
 ### 📊 GitHub Activity
 
@@ -25,12 +31,6 @@ II’m an iOS Engineer and Team Lead passionate about building elegant, scalable
     </td>
   </tr>
 </table>
-
-### 📬 Reach Out
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirkobraic)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirko.braic@gmail.com)
-[![CV](https://img.shields.io/badge/CV-grey?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.dropbox.com/scl/fi/05kt5efyixhrba9nx1gf0/MirkoBraicCV.pdf?rlkey=wxxyb4l4lun7wx2vjwazffba6&st=tea6qflh&dl=1)
 
 <div align="center">
   <img src="sources/campfire.gif" width="200" alt="Campfire animation" />
