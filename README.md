@@ -28,17 +28,9 @@ II’m an iOS Engineer and Team Lead passionate about building elegant, scalable
 
 ### 📬 Reach Out
 
-<div align="left">
-  <a href="https://linkedin.com/in/mirkobraic">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mirko.braic@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.dropbox.com/scl/fi/05kt5efyixhrba9nx1gf0/MirkoBraicCV.pdf?rlkey=wxxyb4l4lun7wx2vjwazffba6&st=tea6qflh&dl=1" download>
-    <img src="https://img.shields.io/badge/CV-grey?style=for-the-badge&logo=readthedocs" alt="CV" />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirkobraic)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirko.braic@gmail.com)
+[![CV](https://img.shields.io/badge/CV-grey?style=for-the-badge&logo=readthedocs&logoColor=white)](https://www.dropbox.com/scl/fi/05kt5efyixhrba9nx1gf0/MirkoBraicCV.pdf?rlkey=wxxyb4l4lun7wx2vjwazffba6&st=tea6qflh&dl=1)
 
 <div align="center">
   <img src="sources/campfire.gif" width="200" alt="Campfire animation" />
