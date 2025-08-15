@@ -1,4 +1,4 @@
-![Mirko Braic](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Mirko%20Brai%C4%87&desc=Software%20Engineer%20•%20iOS%20Lead&animation=fadeIn&fontAlignY=45&descAlignY=75&fontSize=50&descSize=20&theme=onedark)
+![Mirko Braic](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Mirko%20Brai%C4%87&desc=Software%20Engineer%20•%20iOS%20Lead&animation=fadeIn&fontAlignY=45&descAlignY=75&fontSize=50&descSize=20&theme=dark)
 
 ### 👨‍💻 About Me
 
@@ -24,10 +24,10 @@ I’m an iOS Engineer and Team Lead, passionate about building elegant, scalable
 <table>
   <tr>
     <td valign="top" width="44%">
-      <img src="https://vercel-stats-gules.vercel.app/api/top-langs/?layout=compact&username=mirkobraic&theme=onedark&exclude_repo=vercel-stats" width="100%" alt="GitHub Streak Stats"/>
+      <img src="https://vercel-stats-gules.vercel.app/api/top-langs/?layout=compact&username=mirkobraic&theme=dark&exclude_repo=vercel-stats" width="100%" alt="GitHub Streak Stats"/>
     </td>
     <td valign="top" width="55%">      
-      <img src="https://vercel-stats-gules.vercel.app/api/?username=mirkobraic&theme=onedark&exclude_repo=vercel-stats" width="100%" alt="GitHub Stats"/>
+      <img src="https://vercel-stats-gules.vercel.app/api/?username=mirkobraic&theme=dark&exclude_repo=vercel-stats" width="100%" alt="GitHub Stats"/>
     </td>
   </tr>
 </table>
