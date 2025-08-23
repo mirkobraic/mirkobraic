@@ -23,11 +23,14 @@ I’m an iOS Engineer and Team Lead, passionate about building elegant, scalable
 
 <table>
   <tr>
-    <td valign="top" width="44%">
-      <img src="https://vercel-stats-gules.vercel.app/api/top-langs/?layout=compact&username=mirkobraic&theme=dark&exclude_repo=vercel-stats" width="100%" alt="GitHub Streak Stats"/>
+    <td valign="top" width="27%">
+      <img src="https://vercel-stats-gules.vercel.app/api/top-langs/?layout=compact&username=mirkobraic&theme=dark&exclude_repo=vercel-stats" width="100%" alt="Top Languages"/>
     </td>
-    <td valign="top" width="55%">      
+    <td valign="top" width="35%">      
       <img src="https://vercel-stats-gules.vercel.app/api/?username=mirkobraic&theme=dark&exclude_repo=vercel-stats" width="100%" alt="GitHub Stats"/>
+    </td>
+    <td valign="top" width="37%">
+      <img src="https://streak-stats.demolab.com/?user=mirkobraic&theme=dark" width="100%" alt="Streak Stats"/>
     </td>
   </tr>
 </table>
