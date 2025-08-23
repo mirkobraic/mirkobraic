@@ -11,7 +11,7 @@ I’m an iOS Engineer and Team Lead, passionate about building elegant, scalable
 -	🧠 Drive team growth through mentorship, architecture discussions, and code reviews
 - 🧩 Shipped multiple apps across different domains on iOS, iPadOS, and tvOS platforms
 - 🤝 Open to collaborations and exciting new opportunities
-- 💬 Ask me about Swift, SwiftUI, UIKit, TCA, CoreData, BLE, MVVM, Clean Architecture
+- 💬 Ask me about Swift, SwiftUI, UIKit, TCA, CoreData, Clean Architecture
 
 ### Reach Out
 
