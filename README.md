@@ -26,7 +26,7 @@ I’m an iOS Engineer and Team Lead, passionate about building elegant, scalable
     <td valign="top" width="27%">
       <img src="https://vercel-stats-gules.vercel.app/api/top-langs/?layout=compact&username=mirkobraic&theme=dark&exclude_repo=vercel-stats" width="100%" alt="Top Languages"/>
     </td>
-    <td valign="top" width="35%">      
+    <td valign="top" width="34%">      
       <img src="https://vercel-stats-gules.vercel.app/api/?username=mirkobraic&theme=dark&exclude_repo=vercel-stats" width="100%" alt="GitHub Stats"/>
     </td>
     <td valign="top" width="37%">
